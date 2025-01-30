@@ -1,0 +1,15 @@
+[project]
+authors = ["Nikolai Bachkaikine <144275038+Sastrelli@users.noreply.github.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "Alzheimers-Data-lake"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.12.2.*"
+pandas = ">=2.2.3,<3"
+ipykernel = ">=6.29.5,<7"
+openpyxl = ">=3.1.5,<4"

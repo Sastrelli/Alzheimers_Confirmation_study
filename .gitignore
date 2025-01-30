@@ -1,0 +1,5 @@
+#subject to change
+src/analysis.ipynb
+# pixi environments
+.pixi
+*.egg-info

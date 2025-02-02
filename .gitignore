@@ -2,7 +2,7 @@ src/notebook/play
 
 #subject to change
 src/analysis.ipynb
-
+src/copy_saved.ipynb 
 # pixi environments
 .pixi
 *.egg-info
